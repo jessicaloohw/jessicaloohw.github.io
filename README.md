@@ -26,7 +26,7 @@ I am currently a PhD student in the Department of Biomedical Engineering at Duke
 
 ### 2019
 
-[Automatic Deep Learning OCT Analysis Algorithm Reliably Reproduces Expert-Evaluated Outcome of a Randomized Clinical Trial for Macular Telangiectasia Type 2 Treatment](https://iovs.arvojournals.org/article.aspx?articleid=27419000)  
+[Automatic Deep Learning OCT Analysis Algorithm Reliably Reproduces Expert-Evaluated Outcome of a Randomized Clinical Trial for Macular Telangiectasia Type 2 Treatment](https://iovs.arvojournals.org/article.aspx?articleid=2741900)  
 **J. Loo**, T. E. Clemons, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  
 *ARVO Annual Meeting*, Vancouver, BC, April 2019 (Poster)
 

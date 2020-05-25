@@ -4,7 +4,7 @@
 
 I am currently a PhD student in the Department of Biomedical Engineering at Duke University under the advisement of Dr. Sina Farsiu. My research interests include developing medical image analysis algorithms to aid clinicians in diagnosing, monitoring, and treating diseases. Working closely with clinical collaborators, primarily at the Duke Reading Center, our algorithms are applied to a wide range of ophthalmic diseases and imaging modalities from several clinical studies and trials.
 
-## Select Journal Publications
+## Selected Journal Publications
 
 ### 2020
 
@@ -22,7 +22,7 @@ I am currently a PhD student in the Department of Biomedical Engineering at Duke
 **J. Loo**, L. Fang, D. Cunefare, G. J. Jaffe, and S. Farsiu  
 *Biomedical Optics Express 9(6)*, 2681-2698, June 2018
 
-## Select Conference Presentations
+## Selected Conference Presentations
 
 ### 2019
 

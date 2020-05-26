@@ -1,6 +1,6 @@
 ## Biography
 
-I am currently a PhD student in the [Department of Biomedical Engineering](https://bme.duke.edu/) at Duke University under the advisement of [Dr. Sina Farsiu](http://people.duke.edu/~sf59/). My research focuses on developing image analysis algorithms to aid clinicians in diagnosing, monitoring, and treating ophthalmic diseases. Working closely with clinical collaborators, primarily at the [Duke Reading Center](https://dukereadingcenter.org/), our algorithms are applied to a wide range of ophthalmic diseases and imaging modalities from several clinical studies and trials.
+I am currently a PhD student in the [Department of Biomedical Engineering, Duke University](https://bme.duke.edu/) under the advisement of [Dr. Sina Farsiu](http://people.duke.edu/~sf59/). My research focuses on developing image analysis algorithms to aid clinicians in diagnosing, monitoring, and treating ophthalmic diseases. Working closely with clinical collaborators, primarily at the [Duke Reading Center](https://dukereadingcenter.org/), our algorithms are applied to a wide range of ophthalmic diseases and imaging modalities from several clinical studies and trials.
 
 ## Selected Journal Publications
 

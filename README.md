@@ -28,6 +28,26 @@ K. J. McHugh, D. Li, J. C. Wang, L. Kwark, **J. Loo**, V. Macha, S. Farsiu, L. A
 
 ## Selected Conference Presentations
 
+### 2020
+
+[Deep learning-based automatic segmentation of retinal cavitations on OCT images of MacTel2](https://iovs.arvojournals.org/article.aspx?articleid=2769036)  
+**J. Loo**, C. X. Cai, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  
+*ARVO Annual Meeting*, Baltimore, MD, May 2020*   
+
+[Deep learning-based automatic segmentation of intact ellipsoid zone area on optical coherence tomography images of USH2A-related retinal degeneration](https://iovs.arvojournals.org/article.aspx?articleid=2769918)  
+S. Farsiu, **J. Loo**, J. L. Duncan, D. G. Birch, and G. J. Jaffe  
+*ARVO Annual Meeting*, Baltimore, MD, May 2020*
+
+[In-vivo quantitative analysis of pterygium volume using anterior segment optical coherence tomography imaging](https://iovs.arvojournals.org/article.aspx?articleid=2769606)  
+S. Onal, **J. Loo**, T. Nguyen, M. Cherukury, S. Farsiu, and G. J. Jaffe  
+*ARVO Annual Meeting*, Baltimore, MD, May 2020*
+
+[Meta-learning approach to automatically register multivendor retinal images](https://iovs.arvojournals.org/article.aspx?articleid=2769264)   
+A. Hasan, Z. Deng, **J. Loo**, D. Mukherjee, J. L. Duncan, D. G Birch, G. J. Jaffe, and S. Farsiu  
+*ARVO Annual Meeting*, Baltimore, MD, May 2020*
+
+* Conference was cancelled due to COVID-19
+
 ### 2019
 
 [Automatic Deep Learning OCT Analysis Algorithm Reliably Reproduces Expert-Evaluated Outcome of a Randomized Clinical Trial for Macular Telangiectasia Type 2 Treatment](https://iovs.arvojournals.org/article.aspx?articleid=2741900)  
@@ -36,7 +56,11 @@ K. J. McHugh, D. Li, J. C. Wang, L. Kwark, **J. Loo**, V. Macha, S. Farsiu, L. A
 
 [Deep learning-based automatic segmentation of stromal infiltrates and associated biomarkers on slit-lamp images of microbial keratitis](https://iovs.arvojournals.org/article.aspx?articleid=2746417)  
 S. Farsiu, **J. Loo**, M. F. Kriegel, M. Tuohy, V. Prajna, and M. A. Woodward  
-*ARVO Annual Meeting*, Vancouver, BC, April 2019 (Poster)
+*ARVO Annual Meeting*, Vancouver, BC, April 2019 (Poster)  
+
+[Reliability of physicians’ measurements when manually annotating images of microbial keratitis](https://iovs.arvojournals.org/article.aspx?articleid=2745743)  
+M. F. Kriegel, **J. Loo**, V. Prajna, S. Farsiu, M. Tuohy, P. M. Gompa, L. Niziol, and M. A. Woodward   
+*ARVO Annual Meeting*, Vancouver, BC, April 2019 (Poster)  
 
 [Deep Learning Retinal OCT Analysis Reliably Predicts the Outcome of a Real-World Clinical Trial]()  
 **J. Loo**, T. E. Clemons, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  

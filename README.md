@@ -46,7 +46,7 @@ S. Onal, **J. Loo**, T. Nguyen, M. Cherukury, S. Farsiu, and G. J. Jaffe
 A. Hasan, Z. Deng, **J. Loo**, D. Mukherjee, J. L. Duncan, D. G Birch, G. J. Jaffe, and S. Farsiu  
 *ARVO Annual Meeting*, Baltimore, MD, May 2020*
 
-*Conference was cancelled due to COVID-19
+<sub><sup>*Conference was cancelled due to COVID-19</sup></sub>
 
 ### 2019
 

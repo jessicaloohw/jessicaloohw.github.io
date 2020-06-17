@@ -10,7 +10,7 @@ I am currently a PhD student in the [Department of Biomedical Engineering, Duke 
 **J. Loo**, M. F. Kriegel, M. M. Tuohy, K. H. Kim, V. Prajna, M. A. Woodward, and S. Farsiu  
 *IEEE Journal of Biomedical and Health Informatics (in press)*, 2020
 
-[Beyond Performance Metrics: Automatic Deep Learning Retinal OCT Analysis Reproduces Clinical Trial Outcome](https://www.sciencedirect.com/science/article/abs/pii/S016164201932367X)  
+[Beyond Performance Metrics: Automatic Deep Learning Retinal OCT Analysis Reproduces Clinical Trial Outcome](https://www.aaojournal.org/article/S0161-6420(19)32367-X/fulltext)  
 **J. Loo**, T. E. Clemons, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  
 *Ophthalmology 127(6)*, 793-801, June 2020
 

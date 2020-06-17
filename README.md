@@ -18,7 +18,7 @@ I am currently a PhD student in the [Department of Biomedical Engineering, Duke 
 
 [Computational modeling of retinal hypoxia and photoreceptor degeneration in patients with age-related macular degeneration](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216215)  
 K. J. McHugh, D. Li, J. C. Wang, L. Kwark, **J. Loo**, V. Macha, S. Farsiu, L. A. Kim, and M. Saint-Geniez  
-*PLoS ONE 14(6)*, e0216215, June 2019.
+*PLoS ONE 14(6)*, e0216215, June 2019
 
 ### 2018
 

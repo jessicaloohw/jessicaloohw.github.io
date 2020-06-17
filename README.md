@@ -14,6 +14,12 @@ I am currently a PhD student in the [Department of Biomedical Engineering, Duke 
 **J. Loo**, T. E. Clemons, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  
 *Ophthalmology 127(6)*, 793-801, June 2020
 
+### 2019
+
+[Computational modeling of retinal hypoxia and photoreceptor degeneration in patients with age-related macular degeneration](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216215)  
+K. J. McHugh, D. Li, J. C. Wang, L. Kwark, **J. Loo**, V. Macha, S. Farsiu, L. A. Kim, and M. Saint-Geniez  
+*PLoS ONE 14(6)*, e0216215, June 2019.
+
 ### 2018
 
 [Deep longitudinal transfer learning-based automatic segmentation of photoreceptor ellipsoid zone defects on optical coherence tomography images of macular telangiectasia type 2](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-9-6-2681)  

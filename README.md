@@ -6,6 +6,10 @@ I am currently a PhD student in the [Department of Biomedical Engineering, Duke 
 
 ### 2020
 
+[Measurement Reliability for Anterior Segment and Keratitis Morphology](https://journals.lww.com/corneajrnl/Abstract/9000/Measurement_Reliability_for_Anterior_Segment_and.96027.aspx)
+M. F. Kriegel, **J. Loo**, S. Farsiu, V. Prajna, M. Tuohy, K. H. Kim, A. N. Valicevic, L. M. Niziol, H. Tan, H. A. Ashfaq, D. Ballouz, and M. A. Woodward  
+*Cornea (in press)*, 2020  
+
 [Open-source automatic segmentation of ocular structures and biomarkers of microbial keratitis on slit-lamp photography images using deep learning](https://ieeexplore.ieee.org/document/9050902)  
 **J. Loo**, M. F. Kriegel, M. M. Tuohy, K. H. Kim, V. Prajna, M. A. Woodward, and S. Farsiu  
 *IEEE Journal of Biomedical and Health Informatics (in press)*, 2020

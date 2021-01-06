@@ -4,15 +4,21 @@ I am currently a PhD student in the [Department of Biomedical Engineering, Duke 
 
 ## Selected Journal Publications
 
-### 2020
-
-[Measurement Reliability for Anterior Segment and Keratitis Morphology](https://journals.lww.com/corneajrnl/Abstract/9000/Measurement_Reliability_for_Anterior_Segment_and.96027.aspx)  
-M. F. Kriegel, **J. Loo**, S. Farsiu, V. Prajna, M. Tuohy, K. H. Kim, A. N. Valicevic, L. M. Niziol, H. Tan, H. A. Ashfaq, D. Ballouz, and M. A. Woodward  
-*Cornea (in press)*, 2020  
+### 2021  
 
 [Open-source automatic segmentation of ocular structures and biomarkers of microbial keratitis on slit-lamp photography images using deep learning](https://ieeexplore.ieee.org/document/9050902)  
 **J. Loo**, M. F. Kriegel, M. M. Tuohy, K. H. Kim, V. Prajna, M. A. Woodward, and S. Farsiu  
-*IEEE Journal of Biomedical and Health Informatics (in press)*, 2020
+*IEEE Journal of Biomedical and Health Informatics 25(1)*, 88-99, 2021  
+
+### 2020
+
+[Deep learning-based classification and segmentation of retinal cavitations on optical coherence tomography images of macular telangiectasia type 2](https://bjo.bmj.com/content/early/2020/11/22/bjophthalmol-2020-317131)  
+**J. Loo**, C. X. Cai, J. Choong, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  
+*British Journal of Ophthalmology (in press)*, 2020
+
+[Measurement Reliability for Anterior Segment and Keratitis Morphology](https://journals.lww.com/corneajrnl/Abstract/9000/Measurement_Reliability_for_Anterior_Segment_and.96027.aspx)  
+M. F. Kriegel, **J. Loo**, S. Farsiu, V. Prajna, M. Tuohy, K. H. Kim, A. N. Valicevic, L. M. Niziol, H. Tan, H. A. Ashfaq, D. Ballouz, and M. A. Woodward  
+*Cornea 39(12)*, 1503-1509, 2020  
 
 [Beyond Performance Metrics: Automatic Deep Learning Retinal OCT Analysis Reproduces Clinical Trial Outcome](https://www.aaojournal.org/article/S0161-6420(19)32367-X/fulltext)  
 **J. Loo**, T. E. Clemons, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  

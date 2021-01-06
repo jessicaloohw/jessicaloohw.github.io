@@ -16,7 +16,7 @@ I am currently a PhD student in the [Department of Biomedical Engineering, Duke 
 **J. Loo**, C. X. Cai, J. Choong, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  
 *British Journal of Ophthalmology (in press)*, 2020
 
-[Measurement Reliability for Anterior Segment and Keratitis Morphology](https://journals.lww.com/corneajrnl/Abstract/9000/Measurement_Reliability_for_Anterior_Segment_and.96027.aspx)  
+[Measurement Reliability for Keratitis Morphology](https://journals.lww.com/corneajrnl/Fulltext/2020/12000/Measurement_Reliability_for_Keratitis_Morphology.6.aspx)  
 M. F. Kriegel, **J. Loo**, S. Farsiu, V. Prajna, M. Tuohy, K. H. Kim, A. N. Valicevic, L. M. Niziol, H. Tan, H. A. Ashfaq, D. Ballouz, and M. A. Woodward  
 *Cornea 39(12)*, 1503-1509, 2020  
 

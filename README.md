@@ -8,7 +8,7 @@ I am currently a PhD student in the [Department of Biomedical Engineering, Duke 
 
 [Open-source automatic segmentation of ocular structures and biomarkers of microbial keratitis on slit-lamp photography images using deep learning](https://ieeexplore.ieee.org/document/9050902)  
 **J. Loo**, M. F. Kriegel, M. M. Tuohy, K. H. Kim, V. Prajna, M. A. Woodward, and S. Farsiu  
-*IEEE Journal of Biomedical and Health Informatics 25(1)*, 88-99, 2021  
+*IEEE Journal of Biomedical and Health Informatics 25(1)*, 88-99, January 2021  
 
 ### 2020
 
@@ -18,7 +18,7 @@ I am currently a PhD student in the [Department of Biomedical Engineering, Duke 
 
 [Measurement Reliability for Keratitis Morphology](https://journals.lww.com/corneajrnl/Fulltext/2020/12000/Measurement_Reliability_for_Keratitis_Morphology.6.aspx)  
 M. F. Kriegel, **J. Loo**, S. Farsiu, V. Prajna, M. Tuohy, K. H. Kim, A. N. Valicevic, L. M. Niziol, H. Tan, H. A. Ashfaq, D. Ballouz, and M. A. Woodward  
-*Cornea 39(12)*, 1503-1509, 2020  
+*Cornea 39(12)*, 1503-1509, December 2020  
 
 [Beyond Performance Metrics: Automatic Deep Learning Retinal OCT Analysis Reproduces Clinical Trial Outcome](https://www.aaojournal.org/article/S0161-6420(19)32367-X/fulltext)  
 **J. Loo**, T. E. Clemons, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  

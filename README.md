@@ -6,9 +6,17 @@ I am currently a PhD student in the [Department of Biomedical Engineering, Duke 
 
 ### 2021  
 
+[Intraoperative retinal changes may predict surgical outcomes after epiretinal membrane peeling](https://tvst.arvojournals.org/article.aspx?articleid=2772318)  
+L. K. Mukkamala, J. Avaylon, R. J. Welch, A. Yazdanyar, P. Emami-Naeini, S. Wong, J. Storkersen, **J. Loo**, D. Cunefare, S. Farsiu, A. Moshiri, S. S. Park, and G. Yiu  
+*Translational Vision Science & Technology 10(2)*, 36-36, February 2021
+
 [Open-source automatic segmentation of ocular structures and biomarkers of microbial keratitis on slit-lamp photography images using deep learning](https://ieeexplore.ieee.org/document/9050902)  
 **J. Loo**, M. F. Kriegel, M. M. Tuohy, K. H. Kim, V. Prajna, M. A. Woodward, and S. Farsiu  
 *IEEE Journal of Biomedical and Health Informatics 25(1)*, 88-99, January 2021  
+
+[Comparison of single drusen size on color fundus photography and spectral-domain optical coherence tomography](https://journals.lww.com/retinajournal/Abstract/9000/COMPARISON_OF_SINGLE_DRUSEN_SIZE_ON_COLOR_FUNDUS.95597.aspx)  
+D. Y. Kim, **J. Loo**, S. Farsiu, and G. J. Jaffe  
+*Retina (in press)*, 2021
 
 ### 2020
 

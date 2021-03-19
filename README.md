@@ -6,10 +6,6 @@ I am currently a PhD student in the [Department of Biomedical Engineering, Duke 
 
 ### 2021  
 
-[Intraoperative retinal changes may predict surgical outcomes after epiretinal membrane peeling](https://tvst.arvojournals.org/article.aspx?articleid=2772318)  
-L. K. Mukkamala, J. Avaylon, R. J. Welch, A. Yazdanyar, P. Emami-Naeini, S. Wong, J. Storkersen, **J. Loo**, D. Cunefare, S. Farsiu, A. Moshiri, S. S. Park, and G. Yiu  
-*Translational Vision Science & Technology 10(2)*, 36-36, February 2021
-
 [Open-source automatic segmentation of ocular structures and biomarkers of microbial keratitis on slit-lamp photography images using deep learning](https://ieeexplore.ieee.org/document/9050902)  
 **J. Loo**, M. F. Kriegel, M. M. Tuohy, K. H. Kim, V. Prajna, M. A. Woodward, and S. Farsiu  
 *IEEE Journal of Biomedical and Health Informatics 25(1)*, 88-99, January 2021  
@@ -18,19 +14,23 @@ L. K. Mukkamala, J. Avaylon, R. J. Welch, A. Yazdanyar, P. Emami-Naeini, S. Wong
 D. Y. Kim, **J. Loo**, S. Farsiu, and G. J. Jaffe  
 *Retina (in press)*, 2021
 
+[Intraoperative retinal changes may predict surgical outcomes after epiretinal membrane peeling](https://tvst.arvojournals.org/article.aspx?articleid=2772318)  
+L. K. Mukkamala, J. Avaylon, R. J. Welch, A. Yazdanyar, P. Emami-Naeini, S. Wong, J. Storkersen, **J. Loo**, D. Cunefare, S. Farsiu, A. Moshiri, S. S. Park, and G. Yiu  
+*Translational Vision Science & Technology 10(2)*, 36-36, February 2021
+
 ### 2020
 
 [Deep learning-based classification and segmentation of retinal cavitations on optical coherence tomography images of macular telangiectasia type 2](https://bjo.bmj.com/content/early/2020/11/22/bjophthalmol-2020-317131)  
 **J. Loo**, C. X. Cai, J. Choong, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  
 *British Journal of Ophthalmology (in press)*, 2020
 
-[Measurement Reliability for Keratitis Morphology](https://journals.lww.com/corneajrnl/Fulltext/2020/12000/Measurement_Reliability_for_Keratitis_Morphology.6.aspx)  
-M. F. Kriegel, **J. Loo**, S. Farsiu, V. Prajna, M. Tuohy, K. H. Kim, A. N. Valicevic, L. M. Niziol, H. Tan, H. A. Ashfaq, D. Ballouz, and M. A. Woodward  
-*Cornea 39(12)*, 1503-1509, December 2020  
-
 [Beyond Performance Metrics: Automatic Deep Learning Retinal OCT Analysis Reproduces Clinical Trial Outcome](https://www.aaojournal.org/article/S0161-6420(19)32367-X/fulltext)  
 **J. Loo**, T. E. Clemons, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  
 *Ophthalmology 127(6)*, 793-801, June 2020
+
+[Measurement Reliability for Keratitis Morphology](https://journals.lww.com/corneajrnl/Fulltext/2020/12000/Measurement_Reliability_for_Keratitis_Morphology.6.aspx)  
+M. F. Kriegel, **J. Loo**, S. Farsiu, V. Prajna, M. Tuohy, K. H. Kim, A. N. Valicevic, L. M. Niziol, H. Tan, H. A. Ashfaq, D. Ballouz, and M. A. Woodward  
+*Cornea 39(12)*, 1503-1509, December 2020  
 
 ### 2019
 

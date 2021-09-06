@@ -12,7 +12,7 @@ I am currently a PhD student in the [Department of Biomedical Engineering, Duke 
 
 [Comparison of single drusen size on color fundus photography and spectral-domain optical coherence tomography](https://journals.lww.com/retinajournal/Abstract/9000/COMPARISON_OF_SINGLE_DRUSEN_SIZE_ON_COLOR_FUNDUS.95597.aspx)  
 D. Y. Kim, **J. Loo**, S. Farsiu, and G. J. Jaffe  
-*Retina (in press)*, 2021
+*Retina 41(8)*, 1715-1722, August 2021
 
 [Intraoperative retinal changes may predict surgical outcomes after epiretinal membrane peeling](https://tvst.arvojournals.org/article.aspx?articleid=2772318)  
 L. K. Mukkamala, J. Avaylon, R. J. Welch, A. Yazdanyar, P. Emami-Naeini, S. Wong, J. Storkersen, **J. Loo**, D. Cunefare, S. Farsiu, A. Moshiri, S. S. Park, and G. Yiu  

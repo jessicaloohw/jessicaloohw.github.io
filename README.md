@@ -6,6 +6,10 @@ I am currently a PhD student in the [Department of Biomedical Engineering, Duke 
 
 ### 2021  
 
+[Open-Source Automatic Biomarker Measurement on Slit-Lamp Photography to Estimate Visual Acuity in Microbial Keratitis]()  
+**J. Loo**, M. A. Woodward, V. Prajna, M. F. Kriegel, M. Pawar, M. Khan, L. M. Niziol, and S. Farsiu
+*Translational Vision Science & Technology (in press)*, 2021
+
 [Open-source automatic segmentation of ocular structures and biomarkers of microbial keratitis on slit-lamp photography images using deep learning](https://ieeexplore.ieee.org/document/9050902)  
 **J. Loo**, M. F. Kriegel, M. M. Tuohy, K. H. Kim, V. Prajna, M. A. Woodward, and S. Farsiu  
 *IEEE Journal of Biomedical and Health Informatics 25(1)*, 88-99, January 2021  
@@ -46,25 +50,37 @@ K. J. McHugh, D. Li, J. C. Wang, L. Kwark, **J. Loo**, V. Macha, S. Farsiu, L. A
 
 ## Selected Conference Presentations
 
+### 2021
+
+[The RUSH2A study: Baseline microperimetry and SD-OCT measures](https://iovs.arvojournals.org/article.aspx?articleid=2773434)  
+E. M. Lad, W. Liang, G. J. Jaffe, Z. Deng, **J. Loo**, D. Mukherjee, and S. Farsiu  
+*ARVO Annual Meeting*, May 2021 (Virtual)  
+
+[The RUSH2A Study: Microperimetry and SD-OCT Measures at Baseline]()  
+E. M. Lad, W. Liang, G. J. Jaffe, Z. Deng, **J. Loo**, D. Mukherjee, and S. Farsiu  
+*44th Annual Macula Society Meeting*, February 2021 (Virtual)  
+
+[Comparison of Single Drusen Size on Color Fundus Photography and Spectral Domain Optical Coherence Tomography]()  
+G. J. Jaffe, D. Y. Kim, **J. Loo**, and S. Farsiu  
+*44th Annual Macula Society Meeting*, February 2021 (Virtual)  
+
 ### 2020
 
 [Deep learning-based automatic segmentation of retinal cavitations on OCT images of MacTel2](https://iovs.arvojournals.org/article.aspx?articleid=2769036)  
 **J. Loo**, C. X. Cai, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  
-*ARVO Annual Meeting*, Baltimore, MD, May 2020*   
+*ARVO Annual Meeting*, May 2020 (Virtual) 
 
 [Deep learning-based automatic segmentation of intact ellipsoid zone area on optical coherence tomography images of USH2A-related retinal degeneration](https://iovs.arvojournals.org/article.aspx?articleid=2769918)  
 S. Farsiu, **J. Loo**, J. L. Duncan, D. G. Birch, and G. J. Jaffe  
-*ARVO Annual Meeting*, Baltimore, MD, May 2020*
+*ARVO Annual Meeting*, May 2020 (Virtual)
 
 [In-vivo quantitative analysis of pterygium volume using anterior segment optical coherence tomography imaging](https://iovs.arvojournals.org/article.aspx?articleid=2769606)  
 S. Onal, **J. Loo**, T. Nguyen, M. Cherukury, S. Farsiu, and G. J. Jaffe  
-*ARVO Annual Meeting*, Baltimore, MD, May 2020*
+*ARVO Annual Meeting*, May 2020 (Virtual)
 
 [Meta-learning approach to automatically register multivendor retinal images](https://iovs.arvojournals.org/article.aspx?articleid=2769264)   
 A. Hasan, Z. Deng, **J. Loo**, D. Mukherjee, J. L. Duncan, D. G Birch, G. J. Jaffe, and S. Farsiu  
-*ARVO Annual Meeting*, Baltimore, MD, May 2020*
-
-*<sub><sup>Conference was cancelled due to COVID-19</sup></sub>
+*ARVO Annual Meeting*, May 2020 (Virtual)
 
 ### 2019
 

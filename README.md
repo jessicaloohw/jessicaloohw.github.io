@@ -6,7 +6,7 @@ I am currently a PhD student in the [Department of Biomedical Engineering, Duke 
 
 ### 2021  
 
-[Open-Source Automatic Biomarker Measurement on Slit-Lamp Photography to Estimate Visual Acuity in Microbial Keratitis]()  
+[Open-Source Automatic Biomarker Measurement on Slit-Lamp Photography to Estimate Visual Acuity in Microbial Keratitis](https://tvst.arvojournals.org/article.aspx?articleid=2777943)  
 **J. Loo**, M. A. Woodward, V. Prajna, M. F. Kriegel, M. Pawar, M. Khan, L. M. Niziol, and S. Farsiu  
 *Translational Vision Science & Technology (in press)*, 2021  
 

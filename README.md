@@ -4,6 +4,12 @@ I am currently a PhD student in the [Department of Biomedical Engineering, Duke 
 
 ## Selected Journal Publications
 
+### 2022
+
+[Validation of a deep learning-based algorithm for segmentation of the ellipsoid zone on optical coherence tomography images of an *USH2A*-related retinal degeneration clinical trial]()  
+**J. Loo**, G. J. Jaffe, J. L. Duncan, D. G. Birch, and S. Farsiu  
+*Retina (in press)*, 2022
+
 ### 2021  
 
 [Open-Source Automatic Biomarker Measurement on Slit-Lamp Photography to Estimate Visual Acuity in Microbial Keratitis](https://tvst.arvojournals.org/article.aspx?articleid=2777943)  

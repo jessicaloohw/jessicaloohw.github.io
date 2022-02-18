@@ -10,6 +10,10 @@ I am currently a PhD student in the [Department of Biomedical Engineering, Duke 
 **J. Loo**, G. J. Jaffe, J. L. Duncan, D. G. Birch, and S. Farsiu  
 *Retina (in press)*, 2022
 
+[Deep learning-based classification and segmentation of retinal cavitations on optical coherence tomography images of macular telangiectasia type 2](https://bjo.bmj.com/content/early/2020/11/22/bjophthalmol-2020-317131)  
+**J. Loo**, C. X. Cai, J. Choong, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  
+*British Journal of Ophthalmology 106(3)*, 396-402, February 2022
+
 ### 2021  
 
 [Open-Source Automatic Biomarker Measurement on Slit-Lamp Photography to Estimate Visual Acuity in Microbial Keratitis](https://tvst.arvojournals.org/article.aspx?articleid=2777943)  
@@ -29,10 +33,6 @@ L. K. Mukkamala, J. Avaylon, R. J. Welch, A. Yazdanyar, P. Emami-Naeini, S. Wong
 *Translational Vision Science & Technology 10(2)*, 36-36, February 2021
 
 ### 2020
-
-[Deep learning-based classification and segmentation of retinal cavitations on optical coherence tomography images of macular telangiectasia type 2](https://bjo.bmj.com/content/early/2020/11/22/bjophthalmol-2020-317131)  
-**J. Loo**, C. X. Cai, J. Choong, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  
-*British Journal of Ophthalmology (in press)*, 2020
 
 [Beyond Performance Metrics: Automatic Deep Learning Retinal OCT Analysis Reproduces Clinical Trial Outcome](https://www.aaojournal.org/article/S0161-6420(19)32367-X/fulltext)  
 **J. Loo**, T. E. Clemons, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  

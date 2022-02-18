@@ -10,7 +10,7 @@ I am currently a PhD student in the [Department of Biomedical Engineering, Duke 
 **J. Loo**, G. J. Jaffe, J. L. Duncan, D. G. Birch, and S. Farsiu  
 *Retina (in press)*, 2022
 
-[Deep learning-based classification and segmentation of retinal cavitations on optical coherence tomography images of macular telangiectasia type 2](https://bjo.bmj.com/content/early/2020/11/22/bjophthalmol-2020-317131)  
+[Deep learning-based classification and segmentation of retinal cavitations on optical coherence tomography images of macular telangiectasia type 2](https://bjo.bmj.com/content/106/3/396)  
 **J. Loo**, C. X. Cai, J. Choong, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  
 *British Journal of Ophthalmology 106(3)*, 396-402, February 2022
 

@@ -6,7 +6,7 @@ I am currently a PhD student in the [Department of Biomedical Engineering, Duke 
 
 ### 2022
 
-[Validation of a deep learning-based algorithm for segmentation of the ellipsoid zone on optical coherence tomography images of an *USH2A*-related retinal degeneration clinical trial]()  
+[Validation of a deep learning-based algorithm for segmentation of the ellipsoid zone on optical coherence tomography images of an *USH2A*-related retinal degeneration clinical trial](https://journals.lww.com/retinajournal/Abstract/9000/Validation_of_a_deep_learning_based_algorithm_for.95266.aspx)  
 **J. Loo**, G. J. Jaffe, J. L. Duncan, D. G. Birch, and S. Farsiu  
 *Retina (in press)*, 2022
 

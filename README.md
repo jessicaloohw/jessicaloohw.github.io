@@ -6,11 +6,11 @@ I am currently a PhD student in the [Department of Biomedical Engineering, Duke 
 
 ### 2022
 
-[Validation of a deep learning-based algorithm for segmentation of the ellipsoid zone on optical coherence tomography images of an *USH2A*-related retinal degeneration clinical trial](https://journals.lww.com/retinajournal/Abstract/9000/Validation_of_a_deep_learning_based_algorithm_for.95266.aspx)  
+[Validation of a Deep Learning-Based Algorithm for Segmentation of the Ellipsoid Zone on Optical Coherence Tomography Images of an *USH2A*-Related Retinal Degeneration Clinical Trial](https://journals.lww.com/retinajournal/Abstract/9000/Validation_of_a_deep_learning_based_algorithm_for.95266.aspx)  
 **J. Loo**, G. J. Jaffe, J. L. Duncan, D. G. Birch, and S. Farsiu  
-*Retina (in press)*, 2022
+*Retina (In Press)*, 2022
 
-[Deep learning-based classification and segmentation of retinal cavitations on optical coherence tomography images of macular telangiectasia type 2](https://bjo.bmj.com/content/106/3/396)  
+[Deep Learning-Based Classification and Segmentation of Retinal Cavitations on Optical Coherence Tomography Images of Macular Telangiectasia Type 2](https://bjo.bmj.com/content/106/3/396)  
 **J. Loo**, C. X. Cai, J. Choong, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  
 *British Journal of Ophthalmology 106(3)*, 396-402, February 2022
 
@@ -20,17 +20,17 @@ I am currently a PhD student in the [Department of Biomedical Engineering, Duke 
 **J. Loo**, M. A. Woodward, V. Prajna, M. F. Kriegel, M. Pawar, M. Khan, L. M. Niziol, and S. Farsiu  
 *Translational Vision Science & Technology 10(12)*, 2, October 2021  
 
-[Open-source automatic segmentation of ocular structures and biomarkers of microbial keratitis on slit-lamp photography images using deep learning](https://ieeexplore.ieee.org/document/9050902)  
+[Open-Source Automatic Segmentation of Ocular Structures and Biomarkers of Microbial Keratitis on Slit-Lamp Photography Images Using Deep Learning](https://ieeexplore.ieee.org/document/9050902)  
 **J. Loo**, M. F. Kriegel, M. M. Tuohy, K. H. Kim, V. Prajna, M. A. Woodward, and S. Farsiu  
 *IEEE Journal of Biomedical and Health Informatics 25(1)*, 88-99, January 2021  
 
-[Comparison of single drusen size on color fundus photography and spectral-domain optical coherence tomography](https://journals.lww.com/retinajournal/Abstract/9000/COMPARISON_OF_SINGLE_DRUSEN_SIZE_ON_COLOR_FUNDUS.95597.aspx)  
+[Comparison of Single Drusen Size on Color Fundus Photography and Spectral-Domain Optical Coherence Tomography](https://journals.lww.com/retinajournal/Abstract/9000/COMPARISON_OF_SINGLE_DRUSEN_SIZE_ON_COLOR_FUNDUS.95597.aspx)  
 D. Y. Kim, **J. Loo**, S. Farsiu, and G. J. Jaffe  
 *Retina 41(8)*, 1715-1722, August 2021
 
-[Intraoperative retinal changes may predict surgical outcomes after epiretinal membrane peeling](https://tvst.arvojournals.org/article.aspx?articleid=2772318)  
+[Intraoperative Retinal Changes May Predict Surgical Outcomes After Epiretinal Membrane Peeling](https://tvst.arvojournals.org/article.aspx?articleid=2772318)  
 L. K. Mukkamala, J. Avaylon, R. J. Welch, A. Yazdanyar, P. Emami-Naeini, S. Wong, J. Storkersen, **J. Loo**, D. Cunefare, S. Farsiu, A. Moshiri, S. S. Park, and G. Yiu  
-*Translational Vision Science & Technology 10(2)*, 36-36, February 2021
+*Translational Vision Science & Technology 10(2)*, 36, February 2021
 
 ### 2020
 
@@ -44,13 +44,13 @@ M. F. Kriegel, **J. Loo**, S. Farsiu, V. Prajna, M. Tuohy, K. H. Kim, A. N. Vali
 
 ### 2019
 
-[Computational modeling of retinal hypoxia and photoreceptor degeneration in patients with age-related macular degeneration](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216215)  
+[Computational Modeling of Retinal Hypoxia and Photoreceptor Degeneration in Patients with Age-Related Macular Degeneration](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216215)  
 K. J. McHugh, D. Li, J. C. Wang, L. Kwark, **J. Loo**, V. Macha, S. Farsiu, L. A. Kim, and M. Saint-Geniez  
 *PLoS ONE 14(6)*, e0216215, June 2019
 
 ### 2018
 
-[Deep longitudinal transfer learning-based automatic segmentation of photoreceptor ellipsoid zone defects on optical coherence tomography images of macular telangiectasia type 2](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-9-6-2681)  
+[Deep Longitudinal Transfer Learning-Based Automatic Segmentation of Photoreceptor Ellipsoid Zone Defects on Optical Coherence Tomography Images of Macular Telangiectasia Type 2](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-9-6-2681)  
 **J. Loo**, L. Fang, D. Cunefare, G. J. Jaffe, and S. Farsiu  
 *Biomedical Optics Express 9(6)*, 2681-2698, June 2018
 
@@ -58,7 +58,7 @@ K. J. McHugh, D. Li, J. C. Wang, L. Kwark, **J. Loo**, V. Macha, S. Farsiu, L. A
 
 ### 2021
 
-[The RUSH2A study: Baseline microperimetry and SD-OCT measures](https://iovs.arvojournals.org/article.aspx?articleid=2773434)  
+[The RUSH2A Study: Baseline Microperimetry and SD-OCT Measures](https://iovs.arvojournals.org/article.aspx?articleid=2773434)  
 E. M. Lad, W. Liang, G. J. Jaffe, Z. Deng, **J. Loo**, D. Mukherjee, and S. Farsiu  
 *ARVO Annual Meeting*, May 2021 (Virtual)  
 
@@ -72,19 +72,19 @@ G. J. Jaffe, D. Y. Kim, **J. Loo**, and S. Farsiu
 
 ### 2020
 
-[Deep learning-based automatic segmentation of retinal cavitations on OCT images of MacTel2](https://iovs.arvojournals.org/article.aspx?articleid=2769036)  
+[Deep Learning-Based Automatic Segmentation of Retinal Cavitations on OCT Images of MacTel2](https://iovs.arvojournals.org/article.aspx?articleid=2769036)  
 **J. Loo**, C. X. Cai, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  
 *ARVO Annual Meeting*, May 2020 (Virtual) 
 
-[Deep learning-based automatic segmentation of intact ellipsoid zone area on optical coherence tomography images of USH2A-related retinal degeneration](https://iovs.arvojournals.org/article.aspx?articleid=2769918)  
+[Deep Learning-Based Automatic Segmentation of Intact Ellipsoid Zone Area on Optical Coherence Tomography Images of *USH2A*-Related Retinal Degeneration](https://iovs.arvojournals.org/article.aspx?articleid=2769918)  
 S. Farsiu, **J. Loo**, J. L. Duncan, D. G. Birch, and G. J. Jaffe  
 *ARVO Annual Meeting*, May 2020 (Virtual)
 
-[In-vivo quantitative analysis of pterygium volume using anterior segment optical coherence tomography imaging](https://iovs.arvojournals.org/article.aspx?articleid=2769606)  
+[In-Vivo Quantitative Analysis of Pterygium Volume Using Anterior Segment Optical Coherence Tomography Imaging](https://iovs.arvojournals.org/article.aspx?articleid=2769606)  
 S. Onal, **J. Loo**, T. Nguyen, M. Cherukury, S. Farsiu, and G. J. Jaffe  
 *ARVO Annual Meeting*, May 2020 (Virtual)
 
-[Meta-learning approach to automatically register multivendor retinal images](https://iovs.arvojournals.org/article.aspx?articleid=2769264)   
+[Meta-Learning Approach to Automatically Register Multivendor Retinal Images](https://iovs.arvojournals.org/article.aspx?articleid=2769264)   
 A. Hasan, Z. Deng, **J. Loo**, D. Mukherjee, J. L. Duncan, D. G Birch, G. J. Jaffe, and S. Farsiu  
 *ARVO Annual Meeting*, May 2020 (Virtual)
 
@@ -94,20 +94,20 @@ A. Hasan, Z. Deng, **J. Loo**, D. Mukherjee, J. L. Duncan, D. G Birch, G. J. Jaf
 **J. Loo**, T. E. Clemons, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  
 *ARVO Annual Meeting*, Vancouver, BC, April 2019 (Poster)
 
-[Deep learning-based automatic segmentation of stromal infiltrates and associated biomarkers on slit-lamp images of microbial keratitis](https://iovs.arvojournals.org/article.aspx?articleid=2746417)  
+[Deep Learning-Based Automatic Segmentation of Stromal Infiltrates and Associated Biomarkers on Slit-Lamp Images of Microbial Keratitis](https://iovs.arvojournals.org/article.aspx?articleid=2746417)  
 S. Farsiu, **J. Loo**, M. F. Kriegel, M. Tuohy, V. Prajna, and M. A. Woodward  
 *ARVO Annual Meeting*, Vancouver, BC, April 2019 (Poster)  
 
-[Reliability of physicians’ measurements when manually annotating images of microbial keratitis](https://iovs.arvojournals.org/article.aspx?articleid=2745743)  
+[Reliability of Physicians’ Measurements When Manually Annotating Images of Microbial Keratitis](https://iovs.arvojournals.org/article.aspx?articleid=2745743)  
 M. F. Kriegel, **J. Loo**, V. Prajna, S. Farsiu, M. Tuohy, P. M. Gompa, L. Niziol, and M. A. Woodward   
 *ARVO Annual Meeting*, Vancouver, BC, April 2019 (Poster)  
 
 [Deep Learning Retinal OCT Analysis Reliably Predicts the Outcome of a Real-World Clinical Trial]()  
 **J. Loo**, T. E. Clemons, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  
-*SPIE Ophthalmic Technologies XXIX*, San Francisco, CA, February 2019 (Talk)
+*SPIE Ophthalmic Technologies XXIX*, San Francisco, CA, February 2019 (Podium)
 
 ### 2018
 
-[Deep learning-based automatic segmentation of ellipsoid zone defects in optical coherence tomography images of macular telangiectasia type 2](https://iovs.arvojournals.org/article.aspx?articleid=2693350)  
+[Deep Learning-Based Automatic Segmentation of Ellipsoid Zone Defects in Optical Coherence Tomography Images of Macular Telangiectasia Type 2](https://iovs.arvojournals.org/article.aspx?articleid=2693350)  
 **J. Loo**, L. Fang, D. Cunefare, G. J. Jaffe, and S. Farsiu  
-*ARVO Annual Meeting*, Honolulu, HI, April 2018 (Talk)
+*ARVO Annual Meeting*, Honolulu, HI, April 2018 (Podium)

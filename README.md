@@ -1,6 +1,6 @@
 ## Biography
 
-I am currently a PhD student in the [Department of Biomedical Engineering, Duke University](https://bme.duke.edu/) working with [Dr. Sina Farsiu](http://people.duke.edu/~sf59/). My research focuses on developing image analysis algorithms to aid clinicians in diagnosing, monitoring, and treating ophthalmic diseases. Working closely with clinical collaborators, primarily at the [Duke Reading Center](https://dukereadingcenter.org/), our algorithms are applied to a wide range of ophthalmic diseases and imaging modalities from several clinical studies and trials.
+I am currently a PhD student in the [Department of Biomedical Engineering at Duke University](https://bme.duke.edu/) working with [Dr. Sina Farsiu](http://people.duke.edu/~sf59/). My research focuses on developing image analysis algorithms to aid clinicians in diagnosing, monitoring, and treating ophthalmic diseases. Working closely with clinical collaborators, primarily at the [Duke Reading Center](https://dukereadingcenter.org/), our algorithms are applied to a wide range of ophthalmic diseases and imaging modalities from several clinical studies and trials. Prior to this, I completed my BEng/MEng in the [Department of Biomedical Engineering at Imperial College London](https://www.imperial.ac.uk/study/ug/courses/bioengineering-department/biomedical-engineering-meng/).
 
 ## Selected Journal Publications
 
@@ -57,6 +57,12 @@ K. J. McHugh, D. Li, J. C. Wang, L. Kwark, **J. Loo**, V. Macha, S. Farsiu, L. A
 [Deep Longitudinal Transfer Learning-Based Automatic Segmentation of Photoreceptor Ellipsoid Zone Defects on Optical Coherence Tomography Images of Macular Telangiectasia Type 2](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-9-6-2681)  
 **J. Loo**, L. Fang, D. Cunefare, G. J. Jaffe, and S. Farsiu  
 *Biomedical Optics Express 9(6)*, 2681-2698, June 2018
+
+### 2016
+
+[Modeling the Biomechanics of Fetal Movements](https://link.springer.com/article/10.1007/s10237-015-0738-1)  
+S. W. Verbruggen, **J. Loo**, T. T. A. Hayat, J. V. Hajnal, M. A. Rutherford, A. T. M. Phillips, and N. C. Nowlan  
+*Biomechanics and Modeling in Mechanobiology 15(4)*, 995-1004, August 2016
 
 ## Selected Conference Presentations
 

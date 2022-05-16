@@ -14,6 +14,10 @@ I am currently a PhD student in the [Department of Biomedical Engineering, Duke 
 **J. Loo**, C. X. Cai, J. Choong, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  
 *British Journal of Ophthalmology 106(3)*, 396-402, February 2022
 
+[Impact of Baseline Quantitative OCT Features on Response to Risuteganib for the Treatment of Dry AMD – The Importance of Outer Retinal Integrity](https://www.ophthalmologyretina.org/article/S2468-6530(22)00236-6/fulltext)  
+J. R. Abraham, G. J. Jaffe, P. K. Kaiser, S. J. Chiu, **J. Loo**, L. Bouckaert, V. Karageozian, M. Sarayba, S. K. Srivastava, and J. P. Ehlers  
+*Ophthalmology Retina (In Press)*, 2022
+
 ### 2021  
 
 [Open-Source Automatic Biomarker Measurement on Slit-Lamp Photography to Estimate Visual Acuity in Microbial Keratitis](https://tvst.arvojournals.org/article.aspx?articleid=2777943)  

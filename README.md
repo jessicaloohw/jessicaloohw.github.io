@@ -1,6 +1,6 @@
 ## Biography
 
-I am currently a PhD student in the [Department of Biomedical Engineering at Duke University](https://bme.duke.edu/) working with [Dr. Sina Farsiu](http://people.duke.edu/~sf59/). My research focuses on developing image analysis algorithms to aid clinicians in diagnosing, monitoring, and treating ophthalmic diseases. Working closely with clinical collaborators, primarily at the [Duke Reading Center](https://dukereadingcenter.org/), our algorithms are applied to a wide range of ophthalmic diseases and imaging modalities from clinical studies and trials. Prior to this, I completed my BEng/MEng in the [Department of Biomedical Engineering at Imperial College London](https://www.imperial.ac.uk/bioengineering).
+I am currently a Data Scientist at [Verily](https://verily.com/). Prior to this, I completed my BEng/MEng in [Biomedical Engineering at Imperial College London](https://www.imperial.ac.uk/bioengineering) and PhD in [Biomedical Engineering at Duke University](https://bme.duke.edu/). My PhD thesis focused on developing image analysis algorithms to aid clinicians in diagnosing, monitoring, and treating ophthalmic diseases.
 
 ## Selected Journal Publications
 

@@ -1,6 +1,6 @@
 ## Biography
 
-I am currently a Data Scientist at [Verily](https://verily.com/). Prior to this, I completed my BEng/MEng in [Biomedical Engineering at Imperial College London](https://www.imperial.ac.uk/bioengineering) and PhD in [Biomedical Engineering at Duke University](https://bme.duke.edu/). My PhD thesis focused on developing image analysis algorithms to aid clinicians in diagnosing, monitoring, and treating ophthalmic diseases.
+I am currently a Data Scientist in the Pathology Machine Learning Team at [Verily](https://verily.com/). Prior to this, I completed my BEng/MEng in [Biomedical Engineering at Imperial College London](https://www.imperial.ac.uk/bioengineering) and PhD in [Biomedical Engineering at Duke University](https://bme.duke.edu/). My PhD thesis focused on developing image analysis algorithms to aid clinicians in diagnosing, monitoring, and treating ophthalmic diseases.
 
 ## Selected Journal Publications
 

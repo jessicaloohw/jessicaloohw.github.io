@@ -8,7 +8,7 @@ I am currently a Data Scientist in the Pathology Machine Learning Team at [Veril
 
 [Validation of a Deep Learning-Based Algorithm for Segmentation of the Ellipsoid Zone on Optical Coherence Tomography Images of an *USH2A*-Related Retinal Degeneration Clinical Trial](https://journals.lww.com/retinajournal/Abstract/9000/Validation_of_a_deep_learning_based_algorithm_for.95266.aspx)  
 **J. Loo**, G. J. Jaffe, J. L. Duncan, D. G. Birch, and S. Farsiu  
-*Retina (In Press)*, 2022
+*Retina 42(7)*, 1347-1355, July 2022
 
 [Deep Learning-Based Classification and Segmentation of Retinal Cavitations on Optical Coherence Tomography Images of Macular Telangiectasia Type 2](https://bjo.bmj.com/content/106/3/396)  
 **J. Loo**, C. X. Cai, J. Choong, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  

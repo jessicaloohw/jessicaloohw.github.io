@@ -18,6 +18,13 @@ I am currently a Data Scientist in the Pathology Machine Learning Team at [Veril
 J. R. Abraham, G. J. Jaffe, P. K. Kaiser, S. J. Chiu, **J. Loo**, L. Bouckaert, V. Karageozian, M. Sarayba, S. K. Srivastava, and J. P. Ehlers  
 *Ophthalmology Retina (In Press)*, 2022
 
+[Baseline Microperimetry and OCT in the RUSH2A Study: Structure-Function Association and Correlation with Disease
+Severity](https://www.ajo.com/article/S0002-9394(22)00318-X/fulltext)  
+E. M. Lad, J. L. Duncan, W. Liang, M. G. Maguire, A. R. Ayala, I. Audo, D. G. Birch, J. Carroll, J. K. Cheetham, T. A. Durham, A. T. Fahim, **J. Loo**,
+Z. Deng, D. Mukherjee, E. Heon, R. B. Hufnagel, B. Guan, A. Iannaccone, G. J. Jaffe, C. N. Kay, M. Michaelides, M. E. Pennesi, A. Vincent, C. Y.
+Weng, and S. Farsiu  
+*American Journal of Ophthalmology (In Press)*, 2022
+
 ### 2021  
 
 [Open-Source Automatic Biomarker Measurement on Slit-Lamp Photography to Estimate Visual Acuity in Microbial Keratitis](https://tvst.arvojournals.org/article.aspx?articleid=2777943)  

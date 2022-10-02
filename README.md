@@ -2,11 +2,11 @@
 
 I am currently a Data Scientist in the Pathology Machine Learning Team at [Verily](https://verily.com/). Prior to this, I completed my BEng/MEng in [Biomedical Engineering at Imperial College London](https://www.imperial.ac.uk/bioengineering) and PhD in [Biomedical Engineering at Duke University](https://bme.duke.edu/). 
 
-## PhD Thesis
+## Dissertation
 
 [Deep Learning Image Analysis Framework for Clinical Management of Retinal and Corneal Diseases](https://dukespace.lib.duke.edu/dspace/handle/10161/25750)  
 **J. Loo**  
-2022  
+Duke University, 2022  
 
 ## Selected Journal Publications
 

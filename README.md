@@ -4,9 +4,9 @@ I am currently a Data Scientist in the Pathology Machine Learning Team at [Veril
 
 ## PhD Thesis
 
-[Deep Learning Image Analysis Framework for Clinical Management of Retinal and Corneal Diseases](https://dukespace.lib.duke.edu/dspace/handle/10161/25750)
-**J. Loo**
-2022
+[Deep Learning Image Analysis Framework for Clinical Management of Retinal and Corneal Diseases](https://dukespace.lib.duke.edu/dspace/handle/10161/25750)  
+**J. Loo**  
+2022  
 
 ## Selected Journal Publications
 

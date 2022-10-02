@@ -1,6 +1,6 @@
 ## Biography
 
-I am currently a Data Scientist in the Pathology Machine Learning Team at [Verily](https://verily.com/). Prior to this, I completed my BEng/MEng in [Biomedical Engineering at Imperial College London](https://www.imperial.ac.uk/bioengineering) and PhD in [Biomedical Engineering at Duke University](https://bme.duke.edu/). 
+I am currently a Data Scientist in the Pathology Machine Learning Team at [Verily](https://verily.com/). Prior to this, I completed my BEng/MEng in [Biomedical Engineering at Imperial College London](https://www.imperial.ac.uk/bioengineering) and PhD in [Biomedical Engineering at Duke University](https://bme.duke.edu/). My research focuses on machine learning for medical image analysis and clinical applications. 
 
 ## Dissertation
 

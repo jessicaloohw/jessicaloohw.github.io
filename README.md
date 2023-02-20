@@ -26,7 +26,7 @@ Duke University, 2022
 *British Journal of Ophthalmology* 106(3), 396-402, February 2022
 
 [Impact of Baseline Quantitative OCT Features on Response to Risuteganib for the Treatment of Dry AMD – The Importance of Outer Retinal Integrity](https://www.ophthalmologyretina.org/article/S2468-6530(22)00236-6/fulltext)  
-J. R. Abraham, G. J. Jaffe, P. K. Kaiser, S. J. Chiu, **J. Loo**, L. Bouckaert, V. Karageozian, M. Sarayba, S. K. Srivastava, and J. P. Ehlers  
+J. R. Abraham, G. J. Jaffe, P. K. Kaiser, S. J. Chiu, **J. Loo**, S. Farsiu, L. Bouckaert, V. Karageozian, M. Sarayba, S. K. Srivastava, and J. P. Ehlers  
 *Ophthalmology Retina* 6(11), 1019-1027, November 2022
 
 [Baseline Microperimetry and OCT in the RUSH2A Study: Structure-Function Association and Correlation with Disease

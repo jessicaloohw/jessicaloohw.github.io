@@ -11,7 +11,7 @@ Duke University, 2022
 ## Selected Journal Publications
 
 ### 2023
-[Joint Multimodal Deep Learning-Based Automatic Segmentation of ICGA and OCT Images for Assessment of PCV Biomarkers]()  
+[Joint Multimodal Deep Learning-Based Automatic Segmentation of ICGA and OCT Images for Assessment of PCV Biomarkers](https://www.ophthalmologyscience.org/article/S2666-9145(23)00024-6/fulltext)  
 **J. Loo**, K. Y. C. Teo, C. H. Vyas, J. M. N. Jordan-Yu, A. B. Juhari, G. J. Jaffe, C. M. G. Cheung, and S. Farsiu  
 *Ophthalmology Science (In Press)*, 2023
 

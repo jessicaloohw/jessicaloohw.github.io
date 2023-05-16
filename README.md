@@ -7,7 +7,7 @@ I am currently a Data Scientist in the Digital Pathology Machine Learning Team a
 [Deep Learning Image Analysis Framework for Clinical Management of Retinal and Corneal Diseases](https://dukespace.lib.duke.edu/dspace/handle/10161/25750)  
 **J. Loo**  
 Duke University, 2022  
-Receipient of the Biomedical Engineering Doctoral Dissertation Award  
+Recipient of the Biomedical Engineering Doctoral Dissertation Award  
 
 ## Selected Journal Publications
 

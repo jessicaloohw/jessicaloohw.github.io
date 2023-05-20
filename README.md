@@ -57,7 +57,7 @@ L. K. Mukkamala, J. Avaylon, R. J. Welch, A. Yazdanyar, P. Emami-Naeini, S. Wong
 
 ### 2020
 
-[Beyond Performance Metrics: Automatic Deep Learning Retinal OCT Analysis Reproduces Clinical Trial Outcome](https://www.aaojournal.org/article/S0161-6420(19)32367-X/fulltext)  
+[Beyond Performance Metrics: Automatic Deep Learning Retinal OCT Analysis Reproduces Clinical Trial Outcome](https://www.aaojournal.org/article/S0161-6420(19)32367-X/fulltext) [[Commentary]](https://www.aaojournal.org/article/S0161-6420(20)30230-X/fulltext#intraref0010a)  
 **J. Loo**, T. E. Clemons, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  
 *Ophthalmology* 127(6), 793-801, June 2020
 

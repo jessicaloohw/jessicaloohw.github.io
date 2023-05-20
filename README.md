@@ -9,12 +9,16 @@ I am currently a Data Scientist in the Digital Pathology Machine Learning Team a
 [Jump to Selected Journal Publications](#selected-journal-publications)  
 [Jump to Selected Conference Presentations](#selected-conference-presentations)  
 
+---
+
 ## Dissertation
 
 [Deep Learning Image Analysis Framework for Clinical Management of Retinal and Corneal Diseases](https://dukespace.lib.duke.edu/dspace/handle/10161/25750)  
 **J. Loo**  
 Duke University, 2022  
 Recipient of the Biomedical Engineering Doctoral Dissertation Award  
+
+---
 
 ## Selected Journal Publications
 
@@ -89,7 +93,9 @@ K. J. McHugh, D. Li, J. C. Wang, L. Kwark, **J. Loo**, V. Macha, S. Farsiu, L. A
 
 [Modeling the Biomechanics of Fetal Movements](https://link.springer.com/article/10.1007/s10237-015-0738-1)  
 S. W. Verbruggen, **J. Loo**, T. T. A. Hayat, J. V. Hajnal, M. A. Rutherford, A. T. M. Phillips, and N. C. Nowlan  
-*Biomechanics and Modeling in Mechanobiology* 15(4), 995-1004, August 2016
+*Biomechanics and Modeling in Mechanobiology* 15(4), 995-1004, August 2016  
+
+---
 
 ## Selected Conference Presentations
 

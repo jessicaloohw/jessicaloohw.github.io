@@ -59,7 +59,7 @@ L. K. Mukkamala, J. Avaylon, R. J. Welch, A. Yazdanyar, P. Emami-Naeini, S. Wong
 
 [Beyond Performance Metrics: Automatic Deep Learning Retinal OCT Analysis Reproduces Clinical Trial Outcome](https://www.aaojournal.org/article/S0161-6420(19)32367-X/fulltext)   
 **J. Loo**, T. E. Clemons, E. Y. Chew, M. Friedlander, G. J. Jaffe, and S. Farsiu  
-*Ophthalmology* 127(6), 793-801, June 2020
+*Ophthalmology* 127(6), 793-801, June 2020  
 [Commentary: The Machines Are Coming](https://www.aaojournal.org/article/S0161-6420(20)30230-X/fulltext#intraref0010a) 
 
 [Measurement Reliability for Keratitis Morphology](https://journals.lww.com/corneajrnl/Fulltext/2020/12000/Measurement_Reliability_for_Keratitis_Morphology.6.aspx)  

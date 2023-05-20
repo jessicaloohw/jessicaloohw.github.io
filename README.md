@@ -2,6 +2,11 @@
 
 I am currently a Data Scientist in the Digital Pathology Machine Learning Team at [Verily Life Sciences](https://verily.com/). Prior to this, I completed my BEng/MEng in [Biomedical Engineering at Imperial College London](https://www.imperial.ac.uk/bioengineering) and PhD in [Biomedical Engineering at Duke University](https://bme.duke.edu/). My research focuses on machine learning for medical image analysis and clinical applications. 
 
+## Quick Links
+[Jump to Dissertation](#dissertation)  
+[Jump to Selected Journal Publications](#selected-journal-publications)  
+[Jump to Selected Conference Presentations](#selected-conference-presentations)  
+
 ## Dissertation
 
 [Deep Learning Image Analysis Framework for Clinical Management of Retinal and Corneal Diseases](https://dukespace.lib.duke.edu/dspace/handle/10161/25750)  

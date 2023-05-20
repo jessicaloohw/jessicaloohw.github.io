@@ -81,7 +81,7 @@ M. F. Kriegel, **J. Loo**, S. Farsiu, V. Prajna, M. Tuohy, K. H. Kim, A. N. Vali
 
 [Computational Modeling of Retinal Hypoxia and Photoreceptor Degeneration in Patients with Age-Related Macular Degeneration](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216215)  
 K. J. McHugh, D. Li, J. C. Wang, L. Kwark, **J. Loo**, V. Macha, S. Farsiu, L. A. Kim, and M. Saint-Geniez  
-*PLoS ONE* 14(6), e0216215, June 2019
+*PLOS ONE* 14(6), e0216215, June 2019
 
 ### 2018
 

@@ -5,9 +5,9 @@ I am currently a Data Scientist in the Digital Pathology Machine Learning Team a
 ---
 
 ## Quick Links
-[Jump to Dissertation](https://github.com/jessicaloohw/jessicaloohw.github.io#dissertation)  
-[Jump to Selected Journal Publications](https://github.com/jessicaloohw/jessicaloohw.github.io#selected-journal-publications)  
-[Jump to Selected Conference Presentations](https://github.com/jessicaloohw/jessicaloohw.github.io#selected-conference-presentations)  
+[Jump to Dissertation](#dissertation)  
+[Jump to Selected Journal Publications](#selected-journal-publications)  
+[Jump to Selected Conference Presentations](#selected-conference-presentations)  
 
 ---
 

@@ -6,8 +6,8 @@ I am currently a Data Scientist in the Digital Pathology Machine Learning Team a
 
 ## Quick Links
 [Jump to Dissertation](#dissertation)  
-[Jump to Selected Journal Publications](#selected-journal-publications)  
-[Jump to Selected Conference Presentations](#selected-conference-presentations)  
+[Jump to Journal Publications / Preprints](#journal-publications--preprints)  
+[Jump to Conference Presentations / Abstracts](#conference-presentations--abstracts)  
 
 ---
 
@@ -20,7 +20,7 @@ Recipient of the Biomedical Engineering Doctoral Dissertation Award
 
 ---
 
-## Selected Journal Publications / Preprints
+## Journal Publications / Preprints
 
 ### 2023
 [Joint Multimodal Deep Learning-Based Automatic Segmentation of ICGA and OCT Images for Assessment of PCV Biomarkers](https://www.ophthalmologyscience.org/article/S2666-9145(23)00024-6/fulltext)  
@@ -101,7 +101,7 @@ S. W. Verbruggen, **J. Loo**, T. T. A. Hayat, J. V. Hajnal, M. A. Rutherford, A.
 
 ---
 
-## Selected Conference Presentations / Abstracts
+## Conference Presentations / Abstracts
 
 ### 2021
 

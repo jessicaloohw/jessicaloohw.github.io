@@ -20,12 +20,16 @@ Recipient of the Biomedical Engineering Doctoral Dissertation Award
 
 ---
 
-## Selected Journal Publications
+## Selected Journal Publications / Preprints
 
 ### 2023
 [Joint Multimodal Deep Learning-Based Automatic Segmentation of ICGA and OCT Images for Assessment of PCV Biomarkers](https://www.ophthalmologyscience.org/article/S2666-9145(23)00024-6/fulltext)  
 **J. Loo**, K. Y. C. Teo, C. H. Vyas, J. M. N. Jordan-Yu, A. B. Juhari, G. J. Jaffe, C. M. G. Cheung, and S. Farsiu  
-*Ophthalmology Science (In Press)*, 2023
+*Ophthalmology Science* 3(3), 100292, September 2023  
+
+[Domain-Specific Optimization and Diverse Evaluation of Self-Supervised Models for Histopathology](https://arxiv.org/abs/2310.13259)  
+J. Lai, F. Ahmed, S. Vijay, T. Jaroensri, **J. Loo**, S. Vyawahare, S. Agarwal, F. Jamil, Y. Matias, G. S. Corrado, D. R. Webster, J. Krause, Y. Liu, P. H. C. Chen, E. Wulczyn, and D. F. Steiner  
+*Preprint*, arXiv:2310.13259, October 2023  
 
 ### 2022
 
@@ -97,7 +101,7 @@ S. W. Verbruggen, **J. Loo**, T. T. A. Hayat, J. V. Hajnal, M. A. Rutherford, A.
 
 ---
 
-## Selected Conference Presentations
+## Selected Conference Presentations / Abstracts
 
 ### 2021
 

@@ -30,7 +30,7 @@ Recipient of the Biomedical Engineering Doctoral Dissertation Award
 [Domain-Specific Optimization and Diverse Evaluation of Self-Supervised Models for Histopathology](https://arxiv.org/abs/2310.13259)  
 J. Lai, F. Ahmed, S. Vijay, T. Jaroensri, **J. Loo**, S. Vyawahare, S. Agarwal, F. Jamil, Y. Matias, G. S. Corrado, D. R. Webster, J. Krause, Y. Liu, P. H. C. Chen, E. Wulczyn, and D. F. Steiner  
 *Preprint*, arXiv:2310.13259, October 2023  
-Related Blog: [Health-Specific Embedding Tools for Dermatology and Pathology](https://blog.research.google/2024/03/health-specific-embedding-tools-for.html)  
+Related Blog Post: [Health-Specific Embedding Tools for Dermatology and Pathology](https://blog.research.google/2024/03/health-specific-embedding-tools-for.html)  
 
 ### 2022
 

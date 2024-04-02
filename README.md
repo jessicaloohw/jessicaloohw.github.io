@@ -106,7 +106,7 @@ S. W. Verbruggen, **J. Loo**, T. T. A. Hayat, J. V. Hajnal, M. A. Rutherford, A.
 
 ### 2024
 
-[Predicting Immunotherapy Outcomes from H&E Images in Lung Cancer]()  
+[Predicting Immunotherapy Outcomes from H&E Images in Lung Cancer](https://aacrjournals.org/cancerres/article/84/6_Supplement/7380/735256)  
 **J. Loo**, Y. Wang, P. F. Wong, E. Wulczyn, J. Lai, P. Cimermancic, D. F. Steiner, and S. S. Weaver  
 *AACR Annual Meeting*, April 2024 (Poster)
 

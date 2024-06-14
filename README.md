@@ -22,6 +22,11 @@ Recipient of the Biomedical Engineering Doctoral Dissertation Award
 
 ## Journal Publications / Preprints
 
+### 2024
+[Autofluorescence Virtual Staining System for H&E Histology and Multiplex Immunofluorescence Applied to Immuno-Oncology Biomarkers in Lung Cancer](https://www.medrxiv.org/content/10.1101/2024.06.12.24308841v1)  
+**J. Loo***, M. Robbins*, C. McNeil, T. Yoshitake, C. Santori, C. J. Shan, S. Vyawahare, H. Patel, T. C. Wang, R. Findlater, D. F. Steiner, S. Rao, M. Gutierrez, Y. Wang, A. C. Sanchez, R. Yin, V. Velez, J. S. Sigman, P. Coutinho de Souza, H. Chandrupatla, L. Scott, S. S. Weaver, C. W. Lee, E. Rivlin, R. Goldenberg, S. S. Couto, P. Cimermancic, and P. F. Wong  
+*Preprint*, medRxiv 2024.06.12.24308841, June 2024  
+
 ### 2023
 [Joint Multimodal Deep Learning-Based Automatic Segmentation of ICGA and OCT Images for Assessment of PCV Biomarkers](https://www.ophthalmologyscience.org/article/S2666-9145(23)00024-6/fulltext)  
 **J. Loo**, K. Y. C. Teo, C. H. Vyas, J. M. N. Jordan-Yu, A. B. Juhari, G. J. Jaffe, C. M. G. Cheung, and S. Farsiu  
@@ -105,6 +110,10 @@ S. W. Verbruggen, **J. Loo**, T. T. A. Hayat, J. V. Hajnal, M. A. Rutherford, A.
 ## Conference Presentations / Abstracts
 
 ### 2024
+
+[Prediction of MASH Features from Liver Biopsy Images Using a Pretrained Self-Supervised Learning Model](https://www.journal-of-hepatology.eu/article/S0168-8278(24)01738-0/abstract)  
+Y. Wang, S. Vyawahare, C. McNeil, **J. Loo**, M. Robbins, and R. Goldenberg  
+*EASL Congress*, June 2024 (Poster)
 
 [Predicting Immunotherapy Outcomes from H&E Images in Lung Cancer](https://aacrjournals.org/cancerres/article/84/6_Supplement/7380/735256)  
 **J. Loo**, Y. Wang, P. F. Wong, E. Wulczyn, J. Lai, P. Cimermancic, D. F. Steiner, and S. S. Weaver  

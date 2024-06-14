@@ -24,7 +24,7 @@ Recipient of the Biomedical Engineering Doctoral Dissertation Award
 
 ### 2024
 [Autofluorescence Virtual Staining System for H&E Histology and Multiplex Immunofluorescence Applied to Immuno-Oncology Biomarkers in Lung Cancer](https://www.medrxiv.org/content/10.1101/2024.06.12.24308841v1)  
-**J. Loo***, M. Robbins*, C. McNeil, T. Yoshitake, C. Santori, C. J. Shan, S. Vyawahare, H. Patel, T. C. Wang, R. Findlater, D. F. Steiner, S. Rao, M. Gutierrez, Y. Wang, A. C. Sanchez, R. Yin, V. Velez, J. S. Sigman, P. Coutinho de Souza, H. Chandrupatla, L. Scott, S. S. Weaver, C. W. Lee, E. Rivlin, R. Goldenberg, S. S. Couto, P. Cimermancic, and P. F. Wong  
+**J. Loo**\*, M. Robbins\*, C. McNeil, T. Yoshitake, C. Santori, C. J. Shan, S. Vyawahare, H. Patel, T. C. Wang, R. Findlater, D. F. Steiner, S. Rao, M. Gutierrez, Y. Wang, A. C. Sanchez, R. Yin, V. Velez, J. S. Sigman, P. Coutinho de Souza, H. Chandrupatla, L. Scott, S. S. Weaver, C. W. Lee, E. Rivlin, R. Goldenberg, S. S. Couto, P. Cimermancic, and P. F. Wong  
 *Preprint*, medRxiv 2024.06.12.24308841, June 2024  
 
 ### 2023

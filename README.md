@@ -1,6 +1,6 @@
 ## Biography
 
-I am currently a Principal Data Scientist in the Artificial Intelligence & Computational Sciences Team at [Novartis Biomedical Research](https://www.novartis.com/research-and-development). Prior to this, I was a Data Scientist in the Digital Pathology Machine Learning Team at [Verily Life Sciences](https://verily.com/). I completed my PhD in [Biomedical Engineering at Duke University](https://bme.duke.edu/) and BEng/MEng in [Biomedical Engineering at Imperial College London](https://www.imperial.ac.uk/bioengineering). My research focuses on machine learning for medical image analysis and clinical applications.  
+I am currently a Principal Data Scientist in the Artificial Intelligence & Computational Sciences Team in [Biomedical Research at Novartis](https://www.novartis.com/research-and-development). Prior to this, I was a Data Scientist in the Digital Pathology Machine Learning Team at [Verily Life Sciences](https://verily.com/). I completed my PhD in [Biomedical Engineering at Duke University](https://bme.duke.edu/) and BEng/MEng in [Biomedical Engineering at Imperial College London](https://www.imperial.ac.uk/bioengineering). My research focuses on machine learning for medical image analysis and clinical applications.  
 
 ---
 

@@ -112,7 +112,7 @@ S. W. Verbruggen, **J. Loo**, T. T. A. Hayat, J. V. Hajnal, M. A. Rutherford, A.
 ### 2024
 
 [Prediction of KRAS Mutation Status from H&E Foundation Model Embeddings in Non-Small Cell Lung Cancer]()  
-M. Robbins*, **J. Loo**\*, S. Vyawahare, Y. Wang, C. McNeil, S. Rao, P. F. Wong, E. Rivlin, S. S. Weaver, and R. Goldenberg  
+M. Robbins\*, **J. Loo**\*, S. Vyawahare, Y. Wang, C. McNeil, S. Rao, P. F. Wong, E. Rivlin, S. S. Weaver, and R. Goldenberg  
 *MICCAI Workshop on Computational Pathology with Multimodal Data (COMPAYL)*, October 2024  
 
 [Prediction of MASH Features from Liver Biopsy Images Using a Pretrained Self-Supervised Learning Model](https://www.journal-of-hepatology.eu/article/S0168-8278(24)01738-0/abstract)  

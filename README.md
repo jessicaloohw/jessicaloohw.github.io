@@ -23,9 +23,9 @@ Recipient of the Biomedical Engineering Doctoral Dissertation Award
 ## Journal Publications / Preprints
 
 ### 2024
-[Autofluorescence Virtual Staining System for H&E Histology and Multiplex Immunofluorescence Applied to Immuno-Oncology Biomarkers in Lung Cancer](https://www.medrxiv.org/content/10.1101/2024.06.12.24308841v1)  
+[Autofluorescence Virtual Staining System for H&E Histology and Multiplex Immunofluorescence Applied to Immuno-Oncology Biomarkers in Lung Cancer](https://aacrjournals.org/cancerrescommun/article/doi/10.1158/2767-9764.CRC-24-0327/750453)  
 **J. Loo**\*, M. Robbins\*, C. McNeil, T. Yoshitake, C. Santori, C. J. Shan, S. Vyawahare, H. Patel, T. C. Wang, R. Findlater, D. F. Steiner, S. Rao, M. Gutierrez, Y. Wang, A. C. Sanchez, R. Yin, V. Velez, J. S. Sigman, P. Coutinho de Souza, H. Chandrupatla, L. Scott, S. S. Weaver, C. W. Lee, E. Rivlin, R. Goldenberg, S. S. Couto, P. Cimermancic, and P. F. Wong  
-*Preprint (Under Review)*, medRxiv 2024.06.12.24308841, June 2024  
+*Cancer Research Communications (In Press)*, December 2024  
 
 ### 2023
 [Joint Multimodal Deep Learning-Based Automatic Segmentation of ICGA and OCT Images for Assessment of PCV Biomarkers](https://www.ophthalmologyscience.org/article/S2666-9145(23)00024-6/fulltext)  

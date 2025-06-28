@@ -27,7 +27,7 @@ Recipient of the Biomedical Engineering Doctoral Dissertation Award
 **J. Loo**\*, M. Robbins\*, C. McNeil, T. Yoshitake, C. Santori, C. J. Shan, S. Vyawahare, H. Patel, T. C. Wang, R. Findlater, D. F. Steiner, S. Rao, M. Gutierrez, Y. Wang, A. C. Sanchez, R. Yin, V. Velez, J. S. Sigman, P. Coutinho de Souza, H. Chandrupatla, L. Scott, S. S. Weaver, C. W. Lee, E. Rivlin, R. Goldenberg, S. S. Couto, P. Cimermancic, and P. F. Wong  
 *Cancer Research Communications*, 5(1), 54-65, January 2025  
 
-[Natural History of Microperimetry and Optical Coherence Tomography in USH2A-Retinopathy: A Structure-Function Association Study](https://www.ajo.com/article/S0002-9394(25)00216-8/abstract)  
+[Natural History of Microperimetry and Optical Coherence Tomography in *USH2A*-Retinopathy: A Structure-Function Association Study](https://www.ajo.com/article/S0002-9394(25)00216-8/abstract)  
 A. Vincent, W. Liang, M. G. Maguire, J. L. Duncan, A. R. Ayala, P. S. Berstein, J. Caroll, J. K. Cheetham, T. A. Durham, S. Farsiu, C. B. Hoyng, R. M. Huckfeldt, G. J. Jaffe, **J. Loo**, M. E. Pennesi, J. Sahel, M. S. Singh, Z. Z. Zemborain, D. G. Birch, and E. M. Lad  
 *American Journal of Ophthalmology* (In Press), May 2025  
 

@@ -29,7 +29,7 @@ Recipient of the Biomedical Engineering Doctoral Dissertation Award
 
 [Natural History of Microperimetry and Optical Coherence Tomography in *USH2A*-Retinopathy: A Structure-Function Association Study](https://www.ajo.com/article/S0002-9394(25)00216-8/abstract)  
 A. Vincent, W. Liang, M. G. Maguire, J. L. Duncan, A. R. Ayala, P. S. Berstein, J. Caroll, J. K. Cheetham, T. A. Durham, S. Farsiu, C. B. Hoyng, R. M. Huckfeldt, G. J. Jaffe, **J. Loo**, M. E. Pennesi, J. Sahel, M. S. Singh, Z. Z. Zemborain, D. G. Birch, and E. M. Lad  
-*American Journal of Ophthalmology* (In Press), May 2025  
+*American Journal of Ophthalmology*, 276, 336-349, August 2025  
 
 ### 2023
 [Joint Multimodal Deep Learning-Based Automatic Segmentation of ICGA and OCT Images for Assessment of PCV Biomarkers](https://www.ophthalmologyscience.org/article/S2666-9145(23)00024-6/fulltext)  
